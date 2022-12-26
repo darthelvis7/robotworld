@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robotworld/static/css/main.a66fcf8f.css",
+    "main.js": "/robotworld/static/js/main.b7629e48.js",
+    "static/media/SEGA.woff": "/robotworld/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robotworld/index.html",
+    "main.a66fcf8f.css.map": "/robotworld/static/css/main.a66fcf8f.css.map",
+    "main.b7629e48.js.map": "/robotworld/static/js/main.b7629e48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a66fcf8f.css",
+    "static/js/main.b7629e48.js"
+  ]
+}
